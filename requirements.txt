@@ -1,4 +1,6 @@
 fastapi
+pytest
+requests
 uvicorn
 httpx
 watchfiles
